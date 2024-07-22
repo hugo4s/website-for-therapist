@@ -1,0 +1,19 @@
+/* HeaderSection.css */
+.header-section {
+    height: 700px; /* Ajuste conforme necessário */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+  }
+  
+  .text-container {
+    z-index: 1;
+    position: relative;
+  }
+  
+  .text-container img {
+    height: 250px;
+    width: 500px;
+  }
+  

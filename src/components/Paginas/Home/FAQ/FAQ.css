@@ -1,0 +1,17 @@
+.section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.faq-title {
+    margin: 0;
+    padding: 8px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    letter-spacing: 0.15em;
+    color: #a47551;
+    cursor: pointer;
+    border-bottom: 1px solid ;
+}

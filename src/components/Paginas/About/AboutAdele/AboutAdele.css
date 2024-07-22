@@ -1,0 +1,69 @@
+.about-adele {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    max-width: 1000px;
+    margin: 0 auto;
+    margin-bottom: 110px;
+    background-color: #fff;
+  }
+  
+  .image-container {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .image-container img {
+    max-width: 100%;
+    height: 470px;
+    border-radius: 10px;
+  }
+  
+  .text-container {
+    flex: 2;
+    text-align: left;
+    padding-left: 20px;
+    max-width: 500px;
+  }
+  
+  .text-container h2 {
+    font-size: 2.5em;
+    font-family: "Crimson Text", serif;
+    font-weight: 300;
+     margin-bottom: 10px;
+  }
+  
+  .text-container h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    font-family: "Crimson Text", serif;
+    font-weight: 300;
+  }
+  
+  .text-container p {
+    font-size: 1.2em;
+    line-height: 1.8;
+    margin-bottom: 20px;
+    font-family: "Crimson Text", serif;
+    font-weight: 300;
+  }
+  
+  .start-button {
+    display: inline-block;
+    background-color: #000; /* Cor de fundo preta */
+    color: #fff; /* Cor do texto branca */
+    padding: 15px 35px;
+    border: none;
+    border-radius: 25px;
+    font-size: 1em;
+    font-family: "Poppins", sans-serif;
+    text-decoration: none; /* Remove sublinhado do link */
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  .start-button:hover {
+    background-color: #444;
+  }
+  

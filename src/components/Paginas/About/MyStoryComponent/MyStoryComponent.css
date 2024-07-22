@@ -1,0 +1,38 @@
+.my-story-component {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 50px 20px;
+    max-width: 800px; /* Adjusted to better match the image width */
+    margin: 0 auto;
+    background-color: #fff;
+  }
+
+  .my-story-component h2 {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .my-story-text-container {
+    padding: 20px;
+  }
+  
+  .my-story-text-container h2 {
+    font-size: 2.7em;
+    font-family: "Poppins", sans-serif;
+    letter-spacing: 2px;
+    font-weight: 300;
+    margin-bottom: 50px; /* Adjusted to match the image */
+  }
+  
+  .my-story-text-container p {
+    font-size: 1.2em;
+    line-height: 1.8;
+    margin-bottom: 20px;
+    font-family: "Crimson Text", serif;
+    font-weight: 300;
+
+
+  }
+  

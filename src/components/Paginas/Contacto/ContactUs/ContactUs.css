@@ -1,0 +1,62 @@
+.contact-us-container {
+    font-family: "Crimson Text", serif;
+}
+
+.contact-us-content {
+    position: relative;
+    text-align: center;
+    height: 550px; /* Set a fixed height for the image container */
+    overflow: hidden;
+}
+
+.contact-us-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(255, 255, 255);
+    padding: 43px 150px;
+}
+
+.contact-us-overlay h1 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    margin: 0;
+    font-size: 2.2em;
+    letter-spacing: 3px;
+}
+
+.appointment-section {
+    background-color: #fff;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.appointment-section h2 {
+    margin-bottom: 20px;
+    font-size: 1.5em;
+    color: #000;
+}
+
+.appointment-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.appointment-button {
+    padding: 30px 60px;
+    font-size: 1em;
+    color: #000;
+    background-color: #f0e6d6;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    font-family: "Roboto", serif;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+}
+
+.appointment-button:hover {
+    background-color: #d1bda0;
+}

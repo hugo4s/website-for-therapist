@@ -1,0 +1,48 @@
+.click-component {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 500px; /* Ajuste a altura conforme necessário */
+    position: relative;
+    color: black; /* Texto preto */
+  }
+  
+  .content-box {
+    text-align: center;
+    background: rgba(255, 255, 255); /* Fundo semi-transparente branco para melhor legibilidade */
+    padding: 20px;
+    max-width: 600px; /* Limitar a largura do conteúdo */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra para destacar */
+  }
+  
+  .content-box h1 {
+    font-size: 2.7em;
+    font-family: "Poppins", sans-serif;
+    letter-spacing: 2px;
+    font-weight: 300;
+  }
+  
+  .content-box p {
+    font-size: 1.2em;
+    line-height: 1.8;
+    margin-bottom: 20px;
+    font-family: "Crimson Text", serif;
+    font-weight: 300;
+  }
+
+  .content-box button {
+    background-color: #000000;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1em;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+  }
+  
+  .content-box button:hover {
+    background-color: #494848;
+  }
+  

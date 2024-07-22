@@ -1,0 +1,50 @@
+/* src/components/Header.css */
+
+.header {
+    background-color: #fff;
+    padding: 20px 0;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto; 
+    padding: 0 20px;
+  }
+  
+  .logo img {
+    height: 160px;
+  }
+  
+  .nav {
+    text-align: right;
+  }
+  
+  .nav-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 50px;
+  }
+  
+  .nav-item {
+    font-size: 18px;
+}
+
+.nav-item a {
+    text-decoration: none;
+    color: black;
+    transition: transform  0.1s ease;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    display: inline-block;
+  }
+  
+  .nav-item a:hover {
+    transform: scale(1.1);
+    text-decoration: underline;
+  }
+  

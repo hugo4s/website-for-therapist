@@ -1,0 +1,32 @@
+/* TextSection.css */
+.text-section {
+    height: 500px; /* Ajuste conforme necessário */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    text-align: center;
+  }
+  
+  .text-content {
+    background-color: white; /* Fundo branco */
+    border-radius: 10px;
+    max-width: 600px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .text-content h1 {
+    margin-bottom: 20px; /* Espaçamento abaixo do título */
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+  }
+  
+  .text-content p {
+    line-height: 32px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+  }
+  
