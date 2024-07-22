@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/website-for-therapist/static/css/main.d5360354.css",
+    "main.js": "/website-for-therapist/static/js/main.d0133dc0.js",
+    "static/media/briks.jpg": "/website-for-therapist/static/media/briks.b5cf6516782bb3e2ce58.jpg",
+    "static/media/escritorio.jpg": "/website-for-therapist/static/media/escritorio.0edeae7d43654b80cdca.jpg",
+    "static/media/consultorio.jpg": "/website-for-therapist/static/media/consultorio.4d8ca59db70609615fff.jpg",
+    "static/media/certificate.jpg": "/website-for-therapist/static/media/certificate.47c201b3cde376a85666.jpg",
+    "static/media/mistakes.jpg": "/website-for-therapist/static/media/mistakes.62b8cfbc548247875c6a.jpg",
+    "static/media/logo.png": "/website-for-therapist/static/media/logo.620aaef8d038bcc7bfe5.png",
+    "static/media/gray.png": "/website-for-therapist/static/media/gray.37661a62e47325eb2db9.png",
+    "static/media/silvia.png": "/website-for-therapist/static/media/silvia.8e133dfc0cb35f7810f9.png",
+    "static/media/Marvin_Monroe_tapped_out .webp": "/website-for-therapist/static/media/Marvin_Monroe_tapped_out .2e64e832ac8b20c4836e.webp",
+    "static/media/Marvin_Monroe.webp": "/website-for-therapist/static/media/Marvin_Monroe.9f2d03e68fca48ab58a4.webp",
+    "index.html": "/website-for-therapist/index.html",
+    "main.d5360354.css.map": "/website-for-therapist/static/css/main.d5360354.css.map",
+    "main.d0133dc0.js.map": "/website-for-therapist/static/js/main.d0133dc0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5360354.css",
+    "static/js/main.d0133dc0.js"
+  ]
+}
