@@ -7,11 +7,12 @@
 
 .faq-title {
     margin: 0;
-    padding: 8px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
     font-size: 40px;
     letter-spacing: 0.15em;
-    color: #a47551;
+    color: #9b6637;
     cursor: pointer;
-    border-bottom: 1px solid ;
+    border-bottom: 1px solid #9b6637;
+    text-decoration: none;
 }

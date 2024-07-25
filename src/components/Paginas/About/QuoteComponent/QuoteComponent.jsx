@@ -9,8 +9,8 @@ const QuoteComponent = () => {
         <div className="quote-component">
             <div className="quote-box">
                 <p>
-                    “WHAT IF YOU JUST DID IT YOUR OWN WAY? NO RULES, NO RIGHT OR WRONG, JUST WHAT YOU THINK IS BEAUTIFUL?”
-                    <span>- SARAH MAGSAMEN</span>
+                    “A hipnoterapia pode ajudar a curar as feridas do passado e abrir caminho para um futuro brilhante.”
+                    <span>- Dr. Milton H. Erickson</span>
                 </p>
             </div>
         </div>

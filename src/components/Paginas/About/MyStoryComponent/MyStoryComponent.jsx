@@ -5,15 +5,13 @@ const MyStoryComponent = () => {
   return (
     <div className="my-story-component">
       <div className="my-story-text-container">
-        <h2>My Story</h2>
+        <h2>Minha História</h2>
         <p>
-          I started my journey as a therapist with a passion for helping others discover their true potential. My experiences have taught me the importance of connecting with people on a deeper level and providing a safe space for them to express themselves.
-        </p>
+        Comecei a minha jornada como terapeuta com uma paixão por ajudar os outros a descobrir o seu verdadeiro potencial. As minhas experiências ensinaram-me a importância de conectar-se com as pessoas a um nível mais profundo e de proporcionar um espaço seguro para que elas possam expressar-se livremente.        </p>
         <p>
-          Over the years, I have developed a unique approach that combines traditional therapy with creative processes. This has allowed me to support my clients in ways that are both effective and empowering.
-        </p>
+        Ao longo dos anos, desenvolvi uma abordagem única que combina a terapia tradicional com processos criativos. Esta combinação permitiu-me apoiar os meus clientes de maneiras que são tanto eficazes quanto fortalecedoras, ajudando-os a superar desafios e a alcançar os seus objetivos pessoais.</p>
         <p>
-          Join me as I continue to explore new methods and techniques to help individuals lead more fulfilling lives. Let's embark on this journey together and create a world where everyone can thrive.
+        Junte-se a mim enquanto continuo a explorar novos métodos e técnicas para ajudar as pessoas a levar vidas mais plenas e satisfatórias. Vamos embarcar nesta jornada juntos e criar um mundo onde todos possam prosperar.
         </p>
       </div>
     </div>

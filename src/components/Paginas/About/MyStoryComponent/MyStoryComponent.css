@@ -24,6 +24,7 @@
     letter-spacing: 2px;
     font-weight: 300;
     margin-bottom: 50px; /* Adjusted to match the image */
+    color: rgb(8, 42, 93);
   }
   
   .my-story-text-container p {

@@ -20,6 +20,7 @@
     font-family: "Poppins", sans-serif;
     letter-spacing: 2px;
     font-weight: 300;
+    color: rgb(8, 42, 93);
   }
   
   .content-box p {
@@ -31,7 +32,7 @@
   }
 
   .content-box button {
-    background-color: #000000;
+    background-color: rgb(8, 42, 93);
     color: white;
     border: none;
     padding: 10px 20px;
@@ -43,6 +44,6 @@
   }
   
   .content-box button:hover {
-    background-color: #494848;
+    background-color: #334a9d;
   }
   

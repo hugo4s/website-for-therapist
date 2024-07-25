@@ -29,9 +29,11 @@
   
   .text-container h2 {
     font-size: 2.5em;
-    font-family: "Crimson Text", serif;
+    font-family: "Poppins", sans-serif;
     font-weight: 300;
      margin-bottom: 10px;
+     color:  rgb(8, 42, 93);
+
   }
   
   .text-container h1 {
@@ -39,6 +41,7 @@
     margin-bottom: 20px;
     font-family: "Crimson Text", serif;
     font-weight: 300;
+    color:  rgb(8, 42, 93);
   }
   
   .text-container p {
@@ -51,7 +54,7 @@
   
   .start-button {
     display: inline-block;
-    background-color: #000; /* Cor de fundo preta */
+    background-color: rgb(8, 42, 93); /* Cor de fundo preta */
     color: #fff; /* Cor do texto branca */
     padding: 15px 35px;
     border: none;
@@ -64,6 +67,6 @@
   }
   
   .start-button:hover {
-    background-color: #444;
+    background-color: rgb(27, 87, 177);
   }
   

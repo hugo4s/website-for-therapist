@@ -12,12 +12,6 @@ const ContactUs = () => {
                         <h1>Contacta me</h1>
                     </div>
                 </div>
-                <div className="appointment-section">
-                    <div className="appointment-buttons">
-                        <button className="appointment-button new-clients">New Clients</button>
-                        <button className="appointment-button existing-clients">Existing Clients</button>
-                    </div>
-                </div>
             </div>
         </Parallax>
     );

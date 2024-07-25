@@ -13,10 +13,9 @@ function Header() {
         <nav className="nav">
           <ul className="nav-list">
             <li className="nav-item"><Link to="/">Inicio</Link></li>
-            <li className="nav-item"><Link to="/about">Sobre</Link></li>
-            <li className="nav-item"><Link to="/consulta">Nosso espaço</Link></li>
-            <li className="nav-item"><Link to="/contact">Contacto</Link></li>
-            <li className="nav-item"><Link to="/espaço">Consultas</Link></li>
+            <li className="nav-item"><Link to="/sobre">Sobre</Link></li>
+            <li className="nav-item"><Link to="/espaço">Espaço</Link></li>
+            <li className="nav-item"><Link to="/contacto">Contacto</Link></li>
           </ul>
         </nav>
       </div>

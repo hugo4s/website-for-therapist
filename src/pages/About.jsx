@@ -5,7 +5,7 @@ import QuoteComponent from '../components/Paginas/About/QuoteComponent/QuoteComp
 import MyStoryComponent from '../components/Paginas/About/MyStoryComponent/MyStoryComponent';
 import Click from '../components/Paginas/About/Click/Click';
 import Certificate from '../components/Paginas/About/Certificate/Certificate';
-import FAQ from '../components/Paginas/Home/FAQ/FAQ';
+import FAQ from '../components/FAQ/FAQ';
 import Footer from './../components/Footer/Footer';
 
 function About() {

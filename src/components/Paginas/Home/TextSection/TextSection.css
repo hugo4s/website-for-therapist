@@ -21,6 +21,7 @@
     margin-bottom: 20px; /* Espaçamento abaixo do título */
     font-family: "Poppins", sans-serif;
     font-weight: 300;
+    color:  rgb(8, 42, 93);
   }
   
   .text-content p {
@@ -28,5 +29,6 @@
     font-family: "Poppins", sans-serif;
     font-weight: 400;
     font-size: 16px;
+    color: black;
   }
   

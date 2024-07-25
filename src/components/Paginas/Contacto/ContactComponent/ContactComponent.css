@@ -19,6 +19,7 @@
     font-weight: 300;
     letter-spacing: 3px;
     font-size: 32px;
+  
 }
 
 .contact-info p {
@@ -38,6 +39,11 @@
     text-decoration: underline;
   }
   
-
-
-  
+.a {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.a:hover {
+  color: rgb(18, 141, 18);
+}

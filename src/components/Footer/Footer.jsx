@@ -7,42 +7,33 @@ const Footer = () => {
     <footer className="footer">
       <div className="footer-container">
         <div className="footer-section">
-          <h3>About</h3>
+          <h3>Sobre</h3>
           <ul>
-            <li><a href="#about">About Us</a></li>
-            <li><a href="#team">Meet the Team</a></li>
-            <li><a href="#values">Company Values</a></li>
-            <li><a href="#gallery">Office Gallery</a></li>
-          </ul>
-        </div>
-        <div className="footer-section">
-          <h3>Services</h3>
-          <ul>
-            <li><a href="#individual-therapy">Terapia Individual</a></li>
-            <li><a href="#couples-therapy">Couples Therapy</a></li>
-            <li><a href="#workshops">Workshops</a></li>
-            <li><a href="#emdr">EMDR</a></li>
+            <li><a href="#about">Sobre mim</a></li>
+            <li><a href="#values">Minha História</a></li>
+            <li><a href="#gallery">O que eu acredito</a></li>
           </ul>
         </div>
         <div className="footer-section">
           <h3>Info</h3>
           <ul>
-            <li><a href="#blog">Blog</a></li>
-            <li><a href="#faq">FAQ</a></li>
-            <li><a href="#policies">Practice Policies</a></li>
+            <li><a href="#individual-therapy">Espaço</a></li>
+            <li><a href="#couples-therapy">Certificado</a></li>
+            <li><a href="#workshops">Perguntas Frequentes</a></li>
+          </ul>
+        </div>
+        <div className="footer-section">
+          <h3>Políticas</h3>
+          <ul>
+            <li><a href="#policies">Aviso Legal</a></li>
             <li><a href="#contact">Contact</a></li>
           </ul>
         </div>
         <div className="footer-section">
           <h3>Contacto</h3>
-          <p>Gafanha, Aveiro 3800-678
-          </p>
-          <p>Telemóvel: <a href="tel:703-596-9557">928098765</a></p>
-          <p>Email: <a href="mailto:info@alexandriaarttherapy.com">bibi@gmail.com</a></p>
-          <div className="social-icons">
-            <a href="https://www.facebook.com"><FaFacebookF /></a>
-            <a href="https://www.instagram.com"><FaInstagram /></a>
-          </div>
+          <a id='contacto' href='#'>Gafanha, Aveiro 3800-678</a>
+          <p>Telemóvel: <a id='contacto' href="tel:703-596-9557">928098765</a></p>
+          <p>Email: <a id='contacto' href="mailto:info@alexandriaarttherapy.com">bibi@gmail.com</a></p>
         </div>
       </div>
     </footer>

@@ -2,7 +2,7 @@ import React from 'react';
 import Header from './../components/Header/Header';
 import ContactUs from '../components/Paginas/Contacto/ContactUs/ContactUs';
 import ContactComponent from '../components/Paginas/Contacto/ContactComponent/ContactComponent';
-import FAQ from '../components/Paginas/Home/FAQ/FAQ';
+import FAQ from '../components/FAQ/FAQ';
 import Footer from './../components/Footer/Footer';
 
 function Contact() {

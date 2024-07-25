@@ -9,16 +9,16 @@ const AboutAdele = () => {
         <img src={Marvin} alt="Adele" />
       </div>
       <div className="text-container">
-        <h2>Hey there,</h2>
-        <h1>I’m Adele.</h1>
+        <h2>Olá,</h2>
+        <h1>O meu nome é Sílvia.</h1>
         <p>
-          I’m here to support your growth in discovering strategies that <em>actually</em> work in your life. I do this work because too many people walk around the world thinking they have to do it all, take care of everyone else, and smile while doing it.
+        Estou aqui para apoiar o seu crescimento e ajudá-lo a descobrir estratégias que realmente funcionem na sua vida. Faço este trabalho porque acredito que muitas pessoas sentem a pressão de fazer tudo, cuidar de todos e manter um sorriso enquanto enfrentam desafios. Quero ajudar a aliviar essa carga e guiá-lo em direção a uma vida mais equilibrada e satisfatória.
         </p>
         <p>
-          I understand the significance of connecting in a safe, affirming therapy space. I will hold that space to help you connect with your inner voice - your intuition - and lead an authentically abundant life.
+        Acredito que não existe uma abordagem única para todos na hipnoterapia. Mesmo que nunca tenha experimentado a hipnose antes, ela pode ser uma ferramenta poderosa para você. Através da hipnoterapia, podemos explorar novas formas de superar obstáculos, reduzir o stress e alcançar os seus objetivos de vida.
         </p>
         <p>
-          I don’t practice one-size-fits-all therapy. I’ll follow your lead and use the creative process as a guide in sharing your experiences. There is no “good” or “bad” in art therapy (I draw with stick figures). So, even if you’ve never picked up an art material in your life, art therapy can work.
+        Venha descobrir como a hipnoterapia pode desbloquear o seu potencial e transformar a sua vida. Estou aqui para caminhar ao seu lado nesta jornada, ajudando-o a viver de forma mais autêntica e abundante.
         </p>
         <button className="start-button">MARCAR CONSULTA</button>
       </div>

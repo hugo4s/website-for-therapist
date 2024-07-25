@@ -1,12 +1,12 @@
 /* src/components/Header.css */
 
 .header {
-    background-color: #fff;
-    padding: 20px 0;
-  }
+  background-color: #fff;
+  padding: 20px 0;
+}
   
-  .container {
-    display: flex;
+.container {
+  display: flex;
     justify-content: space-between;
     align-items: center;
     max-width: 1200px;
@@ -15,12 +15,13 @@
   }
   
   .logo img {
-    height: 160px;
+    height: 130px;
   }
   
   .nav {
     text-align: right;
   }
+  
   
   .nav-list {
     list-style: none;
@@ -36,7 +37,7 @@
 
 .nav-item a {
     text-decoration: none;
-    color: black;
+    color: rgb(44, 110, 160);
     transition: transform  0.1s ease;
     font-family: "Roboto", sans-serif;
     font-weight: 400;
@@ -47,4 +48,3 @@
     transform: scale(1.1);
     text-decoration: underline;
   }
-  

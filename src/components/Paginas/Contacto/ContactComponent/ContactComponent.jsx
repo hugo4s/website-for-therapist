@@ -1,5 +1,6 @@
 import React, { useEffect } from 'react';
 import './ContactComponent.css';
+import wts from './../../../../assets/wts.svg';
 
 const ContactComponent = () => {
   useEffect(() => {
@@ -28,7 +29,7 @@ const ContactComponent = () => {
       <div id="map" className="map"></div>
       <div className="contact-info">
         <h2>TELEFONE</h2>
-        <a href='918789654'>+351 918789654</a> {/* Example phone number */}
+        <a className='a' href='https://wa.me/918166081'><img height='20px' width='20px' src={wts} alt="whatsapp--v1"/> +351 918789654</a> {/* Example phone number */}
         <h2>EMAIL</h2>
         <p><a href="mailto:info@example.com">info@example.com</a></p> {/* Example email */}
         <h2>ENDEREÇO</h2>

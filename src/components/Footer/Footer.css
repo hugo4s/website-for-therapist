@@ -1,8 +1,8 @@
 /* Footer.css */
 .footer {
-  background-color: #f5e7d8;
+  background-color: #e8d9c9;
   padding: 40px 20px;
-  color: #000;
+  color: black;
   font-family: 'Crimson Text', serif;
   display: flex;
   flex-direction: column;
@@ -26,7 +26,12 @@
 .footer-section h3 {
   font-size: 1.5em;
   margin-bottom: 15px;
-  color: #000;
+  color: rgb(46, 45, 45);
+  
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-size: 17px;
+  letter-spacing: 2px;
   font-weight: bold;
 }
 
@@ -41,24 +46,27 @@
 
 .footer-section ul li a {
   text-decoration: none;
-  color: #a05033;
+  color: #9b6637;
+  border-bottom: 1px solid #9b6637;
 }
 
 .footer-section ul li a:hover {
-  text-decoration: underline;
+  color: #b98c64;
 }
 
 .footer-section p {
   margin: 10px 0;
+  text-decoration: none;
+  color: #9b6637;
+
 }
 
 .footer-section a {
   text-decoration: none;
-  color: #a05033;
 }
 
 .footer-section a:hover {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .social-icons {
@@ -68,6 +76,16 @@
 }
 
 .social-icons a {
-  color: #000;
+  color: #9b6637;
   font-size: 1.5em;
+}
+
+#contacto {
+  color: #9b6637;
+  cursor: pointer;
+  border-bottom: 1px solid #9b6637;
+}
+
+#contacto:hover {
+  color: #b98c64;
 }

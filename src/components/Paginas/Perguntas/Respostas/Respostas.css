@@ -1,0 +1,61 @@
+.respostas-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 50px;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2.5em;
+    margin-bottom: 40px;
+}
+
+.faq-item {
+    margin-bottom: 30px;
+}
+
+.faq-item h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 36px;
+    letter-spacing: 4px;
+}
+
+.faq-item p {
+    font-size: 1em;
+    line-height: 1.6;
+    font-family: "Crimson Text", serif;
+    font-weight: 300;
+    font-size: 17px;
+}
+
+.cta-container {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.cta-container p {
+    font-size: 1em;
+    margin-bottom: 20px;
+    font-family: "Crimson Text", serif;
+}
+
+.cta-button {
+    background-color: #000;
+    color: #fff;
+    border: none;
+    padding: 20px 40px;
+    font-size: 1em;
+    font-family: "Poppins", sans-serif;
+    cursor: pointer;
+    border-radius: 30px;
+    transition: background-color 0.3s;
+}
+
+.cta-button:hover {
+    background-color: #333;
+}
