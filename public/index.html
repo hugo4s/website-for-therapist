@@ -8,13 +8,18 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
-    <script async src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA7so5rbBIZ6fibI7VQwYbKaI3HrhPj6P4&callback=console.debug&libraries=maps,marker&v=beta">    <script>
+    <script async src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA7so5rbBIZ6fibI7VQwYbKaI3HrhPj6P4&callback=console.debug&libraries=maps,marker&v=beta"></script>
+    <script>
         function initMap() {
             // This function is required for the callback to work
         }
     </script>
 </head>
 <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"></div>
+    <!-- Use %PUBLIC_URL% to make the paths relative -->
+    <script src="%PUBLIC_URL%/static/js/main.js"></script>
+    <link rel="stylesheet" href="%PUBLIC_URL%/static/css/main.css">
 </body>
 </html>
