@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hugo4s/website-for-therapist/static/css/main.31285de6.css",
-    "main.js": "/hugo4s/website-for-therapist/static/js/main.629faa5d.js",
+    "main.css": "/hugo4s/website-for-therapist/static/css/main.96be854c.css",
+    "main.js": "/hugo4s/website-for-therapist/static/js/main.47ae1c4e.js",
     "static/media/img11.jpg": "/hugo4s/website-for-therapist/static/media/img11.750be0eec7318e98fe0d.jpg",
     "static/media/briks.jpg": "/hugo4s/website-for-therapist/static/media/briks.b5cf6516782bb3e2ce58.jpg",
     "static/media/img6.jpg": "/hugo4s/website-for-therapist/static/media/img6.cb357e95908a51408638.jpg",
@@ -29,11 +29,11 @@
     "static/media/Marvin_Monroe.webp": "/hugo4s/website-for-therapist/static/media/Marvin_Monroe.9f2d03e68fca48ab58a4.webp",
     "static/media/wts.svg": "/hugo4s/website-for-therapist/static/media/wts.f50b2aaae0bd8934e9105e63dc750668.svg",
     "index.html": "/hugo4s/website-for-therapist/index.html",
-    "main.31285de6.css.map": "/hugo4s/website-for-therapist/static/css/main.31285de6.css.map",
-    "main.629faa5d.js.map": "/hugo4s/website-for-therapist/static/js/main.629faa5d.js.map"
+    "main.96be854c.css.map": "/hugo4s/website-for-therapist/static/css/main.96be854c.css.map",
+    "main.47ae1c4e.js.map": "/hugo4s/website-for-therapist/static/js/main.47ae1c4e.js.map"
   },
   "entrypoints": [
-    "static/css/main.31285de6.css",
-    "static/js/main.629faa5d.js"
+    "static/css/main.96be854c.css",
+    "static/js/main.47ae1c4e.js"
   ]
 }
